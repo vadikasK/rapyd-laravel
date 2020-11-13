@@ -10,8 +10,8 @@
         }
     ],
     "require": {
-        "php": ">=7.1",
-        "illuminate/support": "~8.0",
+        "php": ">=7.3",
+        "illuminate/support": "^8.0",
         "laravelcollective/html": "^6.0.0",
         "intervention/image": "2.*",
         "zofe/burp": "^3.1.2"
@@ -35,7 +35,7 @@
         }
     },
     "require-dev": {
-        "illuminate/support": "~8.0",
+        "illuminate/support": "^8.0",
         "orchestra/testbench": "3.6.*",
         "phpunit/phpunit": "7.*",
         "php-coveralls/php-coveralls": "^1.0"
